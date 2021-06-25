@@ -1,0 +1,2 @@
+module summerstudy_01 {
+}
